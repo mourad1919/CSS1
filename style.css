@@ -1,0 +1,12 @@
+h1,p1 {
+	color: tomato;
+	font-family: roboto;
+    text-align: center;
+    font-size: 50px
+}
+#blue-bordered {
+    border: 10px dashed greenyellow;
+    text-align: center;
+    border-style: dotted;
+}
+body {background-color: #92a8d1;}
